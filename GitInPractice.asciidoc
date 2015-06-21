@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void main() {
+	// Add new comment line here
 	printf("Hello World!\n");
-	exit();
+	exit 0;
 }
