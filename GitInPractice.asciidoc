@@ -2,6 +2,7 @@
 
 void main() {
 	// Add new comment line here
+	// Some additional new comment line
 	printf("Hello World!\n");
 	exit 0;
 }
