@@ -5,5 +5,9 @@ void main() {
 	// Some additional new comment line
 	// Further additional 3rd comment line
 	printf("Hello World!\n");
+
+	// Added new statement in chapter two
+	printf("Added chapter two\n");
+
 	exit 0;
 }
